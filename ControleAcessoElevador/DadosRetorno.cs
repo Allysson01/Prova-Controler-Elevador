@@ -7,7 +7,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel.Web;
 using System.Text;
 
-namespace DataStackService
+namespace ControleAcessoElevador
 {
     [DataContract]
     public class DadosRetorno<T>

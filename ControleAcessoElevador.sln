@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStackService", "ControleAcessoElevador\DataStackService.csproj", "{C117E634-61FD-4B52-A85F-025DCB744ED8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStackServiceWork", "DataStackServiceWork\DataStackServiceWork.csproj", "{21129ACD-A488-441A-A19A-2ED7AB601C2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAcessoElevador", "ControleAcessoElevador\ControleAcessoElevador.csproj", "{C117E634-61FD-4B52-A85F-025DCB744ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{C117E634-61FD-4B52-A85F-025DCB744ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C117E634-61FD-4B52-A85F-025DCB744ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C117E634-61FD-4B52-A85F-025DCB744ED8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21129ACD-A488-441A-A19A-2ED7AB601C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21129ACD-A488-441A-A19A-2ED7AB601C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21129ACD-A488-441A-A19A-2ED7AB601C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21129ACD-A488-441A-A19A-2ED7AB601C2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

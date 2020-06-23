@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataStackService
+namespace ControleAcessoElevador
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class DescricaoWS : Attribute

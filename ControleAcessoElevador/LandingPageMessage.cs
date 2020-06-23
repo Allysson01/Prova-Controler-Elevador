@@ -5,7 +5,7 @@ using System.ServiceModel.Channels;
 using System.Text;
 using System.Xml;
 
-namespace DataStackService
+namespace ControleAcessoElevador
 {
     public class LandingPageMessage : Message
     {
