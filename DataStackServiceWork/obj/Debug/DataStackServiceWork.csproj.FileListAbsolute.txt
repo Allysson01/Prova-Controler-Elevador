@@ -1,0 +1,13 @@
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackServiceWork.exe.config
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackServiceWork.exe
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackServiceWork.pdb
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\obj\Debug\DataStackServiceWork.csprojAssemblyReference.cache
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\obj\Debug\DataStackServiceWork.csproj.CoreCompileInputs.cache
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\obj\Debug\DataStackServiceWork.exe
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\obj\Debug\DataStackServiceWork.pdb
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackService.dll
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackService.pdb
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\DataStackService.dll.config
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\ControleAcessoElevador\DataStackServiceWork\obj\Debug\DataStackServiceWork.csproj.CopyComplete

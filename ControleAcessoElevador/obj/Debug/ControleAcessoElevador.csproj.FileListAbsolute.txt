@@ -1,0 +1,10 @@
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\bin\Debug\ControleAcessoElevador.dll.config
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\bin\Debug\ControleAcessoElevador.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\bin\Debug\ControleAcessoElevador.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\bin\Debug\Newtonsoft.Json.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\bin\Debug\Newtonsoft.Json.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\obj\Debug\ControleAcessoElevador.csprojAssemblyReference.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\obj\Debug\ControleAcessoElevador.csproj.CopyComplete
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\obj\Debug\ControleAcessoElevador.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\obj\Debug\ControleAcessoElevador.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\ControleAcessoElevador\ControleAcessoElevador\obj\Debug\ControleAcessoElevador.csproj.CoreCompileInputs.cache
